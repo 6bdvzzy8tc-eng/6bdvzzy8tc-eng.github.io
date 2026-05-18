@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Widget</title>
+</head>
+<body style="margin:0;padding:0;">
+
+<script
+  type="text/javascript"
+  data-script="cf-project-widget"
+  src="https://www.viele-schaffen-mehr.de/projects/vsm/dist/js/widget.js">
+</script>
+
+<div
+  class="cf-project-widget"
+  data-id="35448"
+  data-subtitle="Wir schaffen alles"
+  data-lang="de"
+  data-page="0066b3">
+</div>
+
+</body>
+</html>
